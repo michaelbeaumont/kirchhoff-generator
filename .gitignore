@@ -1,0 +1,9 @@
+*.o
+*.hi
+*.aux
+*.hp
+*.prof
+*.ps
+generated
+dist
+cabal.sandbox.config
