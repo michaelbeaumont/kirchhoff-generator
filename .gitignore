@@ -7,3 +7,4 @@
 generated
 dist
 cabal.sandbox.config
+.cabal-sandbox
